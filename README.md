@@ -4,4 +4,4 @@
 
 [3]Game genres : Apocalypse, 2d platformer
 
-[4]Project status : Planning (40%)
+[4]Project status : Planning (25%)
