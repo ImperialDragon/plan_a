@@ -2,6 +2,6 @@
 
 [2]License : GNU
 
-[3]Game genres : Apocalypse, 2d platformer
+[3]Game genres : Post Apocalypse , 2d platformer
 
-[4]Project status : Planning (25%)
+[4]Project status : Planning (30%)
