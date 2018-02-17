@@ -1,9 +1,9 @@
 
 <h1>Plan Var (It's a code name, it will be changed before release.</h1>
-Genre - RPG, platformer
-Platforms - Windows, Android
-Language - Czech, English, Russian.
-Engine - Unity
+Genre - RPG, platformer<br />
+Platforms - Windows, Android<br />
+Language - Czech, English, Russian.<br />
+Engine - Unity<br />
 License - GNU v3.0
 
 <h2>Description</h2>
