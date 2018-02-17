@@ -15,10 +15,8 @@ WMZ: Z219959273475<br />
 WMZ: Z219959273475<br /> 
 WMR: R104202985143<br /> 
 WME: E372764273011<br />
-
 <b>Cryptowallet:</b><br />
 Bitcoin - 15v8dsJrbGDyFDS76s8s2a5NqgLbcYH1VT<br /> 
 Etherium - 0xF23e14cAce94e3D3D1d362912cd9cD0718be75Cd<br />
-
 <b>Yandex money:</b><br />
 Wallet: 410012326706353
